@@ -26,7 +26,7 @@ Remarque importante : bien qu'il soit théoriquement possible d'imprimer des fil
 ### c. Test d'extrusion
 
 - Effectuer une extrusion manuelle depuis l'écran pour vérifier que le filament sort correctement.
-    - (se trouve dans l'onglet "filement" du menu ⫶☰ )
+    - (se trouve dans l'onglet "filament" du menu ⫶☰ )
 
 > Une calibration de base a déjà été réalisée sur cette machine. Toutefois, si la première couche est mauvaise ou si l'imprimante a été déplacée, il faut relancer la procédure de calibration complète depuis l'écran avant d'imprimer.
 
@@ -76,7 +76,7 @@ Félicitations, vous devriez avoir votre pièce imprimée :
 ### a. Retirer le filament
 
 - Depuis l'écran, faire une rétraction manuelle (prévoir chauffe si nécessaire) et retirer le filament.
-    - (également dans l'onglet "fillement" du menu ⫶☰ )
+    - (également dans l'onglet "filament" du menu ⫶☰ )
 - Déverrouiller le maintien du filament au niveau de la tête avant de tirer le filament depuis la bobine.
 
 ### b. Stockage du filament
