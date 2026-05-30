@@ -25,7 +25,7 @@ Remarque importante : bien qu'il soit théoriquement possible d'imprimer des fil
 
 ### c. Test d'extrusion
 
-- Effectuer une extrusion manuelle depuis l'écran pour vérifier que le filament sort correctement.
+- Effectuer une extrusion manuelle depuis l'écran pour vérifier que le filament sort correctement (un peu de filament doit s'écouler de la buse).
     - (se trouve dans l'onglet "filament" du menu ⫶☰ )
 
 > Une calibration de base a déjà été réalisée sur cette machine. Toutefois, si la première couche est mauvaise ou si l'imprimante a été déplacée, il faut relancer la procédure de calibration complète depuis l'écran avant d'imprimer.
